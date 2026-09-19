@@ -1,2 +1,2 @@
 # electronics-vbpu
-Web page PCME
+Web page PCME for Vijaya Bifurcated PU College.
